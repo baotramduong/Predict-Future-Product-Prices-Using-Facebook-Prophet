@@ -20,6 +20,8 @@
 
 <img src = '../main/Data & Images/trend.png'>
 
+<img src = '../main/Data & Images/california_avgprice.png'>
+
 <img src = '../main/Data & Images/california_forecast.png'>
 
 <img src = '../main/Data & Images/california_trend.png'>
